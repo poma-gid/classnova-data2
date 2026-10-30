@@ -14,6 +14,11 @@
       "username": "hesam",
       "name": "سید محمد حسام مرزانی",
       "passHash": "h3_59e33178"
+    },
+    {
+      "username": "Amin",
+      "name": "Amin Badbezanchi",
+      "passHash": "h3_1d8687be9"
     }
   ],
   "classes": [
