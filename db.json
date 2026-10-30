@@ -24,6 +24,11 @@
       "username": "Kamran . KarimZade",
       "name": "کامران کریم‌ زاده",
       "passHash": "h3_141d47693"
+    },
+    {
+      "username": "محمد",
+      "name": "عزیزی",
+      "passHash": "h3_7dd597e9"
     }
   ],
   "classes": [
