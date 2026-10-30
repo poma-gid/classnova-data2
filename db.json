@@ -1,5 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "username": "pooyan",
+      "name": "پویان طاهریان مقدم",
+      "passHash": "h3_93a13f7a"
+    }
+  ],
   "classes": [
     {
       "id": "c_1793375843993",
