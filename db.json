@@ -4,11 +4,6 @@
       "username": "pooyan",
       "name": "پویان طاهریان مقدم",
       "passHash": "h3_93a13f7a"
-    },
-    {
-      "username": "pooyan66",
-      "name": "پویان طاهریان مقدم",
-      "passHash": "h3_5ba83658"
     }
   ],
   "classes": [
@@ -22,12 +17,10 @@
       ],
       "inviteCode": "DOAHZE",
       "members": [
-        "pooyan",
-        "pooyan66"
+        "pooyan"
       ],
       "lastSeen": {
-        "pooyan": 1793376233370,
-        "pooyan66": 1793376306729
+        "pooyan": 1793376319642
       }
     }
   ]
