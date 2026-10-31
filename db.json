@@ -34,6 +34,14 @@
       "username": "کک",
       "name": "کک",
       "passHash": "h3_28c5430"
+    },
+    {
+      "id": "u_1793449167380",
+      "username": "00pooyan",
+      "name": "پویان طاهریان مقدم",
+      "passHash": "h8_90f6fe8",
+      "xp": 0,
+      "createdAt": 1793449167380
     }
   ],
   "classes": [
