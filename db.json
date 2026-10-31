@@ -78,6 +78,21 @@
         "AMATRAS": 1793380140634,
         "کک": 1793440682118
       }
+    },
+    {
+      "id": "c_1793449188869",
+      "name": "1062",
+      "school": "دبیرستان هاشمی نژاد 5",
+      "admin": "00pooyan",
+      "admins": [
+        "00pooyan"
+      ],
+      "inviteCode": "K998KG",
+      "members": [
+        "00pooyan"
+      ],
+      "lastSeen": {},
+      "createdAt": 1793449188869
     }
   ]
 }
