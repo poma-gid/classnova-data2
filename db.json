@@ -92,7 +92,7 @@
         "00pooyan"
       ],
       "lastSeen": {
-        "00pooyan": 1793449358982
+        "00pooyan": 1793449244518
       },
       "createdAt": 1793449188869
     },
@@ -108,7 +108,9 @@
       "members": [
         "00pooyan"
       ],
-      "lastSeen": {},
+      "lastSeen": {
+        "00pooyan": 1793449362365
+      },
       "createdAt": 1793449202910
     }
   ]
