@@ -29,6 +29,11 @@
       "username": "محمد",
       "name": "عزیزی",
       "passHash": "h3_7dd597e9"
+    },
+    {
+      "username": "کک",
+      "name": "کک",
+      "passHash": "h3_28c5430"
     }
   ],
   "classes": [
