@@ -143,6 +143,20 @@
       "lastSeen": {
         "1355a1381E": 1793542924793
       }
+    },
+    {
+      "id": "c_1793547066699",
+      "name": "دهم تجربی",
+      "school": "دبیرستان",
+      "admin": "matin-1389",
+      "admins": [
+        "matin-1389"
+      ],
+      "inviteCode": "GJWILC",
+      "members": [
+        "matin-1389"
+      ],
+      "lastSeen": {}
     }
   ]
 }
